@@ -6,7 +6,7 @@
     "description":"The full description of the job posting",
     "posted_at":"DATE-TIME-STAMP",
     "company":{
-      "name":"We Sue 4 You",
+      "name":"We Sue 4 You"
     },
     "city":"Greensboro",
     "state":"NC"
