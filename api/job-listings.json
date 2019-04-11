@@ -1,6 +1,6 @@
 {
   "version":"1.0",
-  "data":{
+  "data":[{
     "title":"Accountant for Law Firm",
     "snippet":"The text that will display in the search results",
     "description":"The full description of the job posting",
@@ -11,5 +11,14 @@
     "city":"Greensboro",
     "state":"NC"
 
-}
+},{"title":"Candy Tester",
+    "snippet":"Need a bubble gum tester",
+    "description":"If you think this job is real... then we have great news for you.",
+    "posted_at":"DATE-TIME-STAMP",
+    "company":{
+      "name":"We Sue 4 You"
+    },
+    "city":"Greensboro",
+    "state":"NC"}
+         ]
 }
