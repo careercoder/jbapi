@@ -5,9 +5,7 @@
     "snippet":"The text that will display in the search results",
     "description":"The full description of the job posting",
     "posted_at":"DATE-TIME-STAMP",
-    "company":{
-      "name":"We Sue 4 You"
-    },
+    "company_name": "We Sue For You",
     "city":"Greensboro",
     "state":"NC"
 
@@ -15,9 +13,7 @@
     "snippet":"Need a bubble gum tester",
     "description":"If you think this job is real... then we have great news for you.",
     "posted_at":"DATE-TIME-STAMP",
-    "company":{
-      "name":"We Sue 4 You"
-    },
+    "company_name": "Makem-A-Fat",
     "city":"Greensboro",
     "state":"NC"}
          ]
