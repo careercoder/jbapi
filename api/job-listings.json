@@ -6,6 +6,7 @@
     "description":"The full description of the job posting",
     "posted_at":"DATE-TIME-STAMP",
     "company_name": "We Sue For You",
+       "company":{"name":"We Sue For You", "id":"19289128"},
     "city":"Greensboro",
     "state":"NC"
 
@@ -14,6 +15,7 @@
     "description":"If you think this job is real... then we have great news for you.",
     "posted_at":"DATE-TIME-STAMP",
     "company_name": "Makem-A-Fat",
+   "company":{"name":"Makem-Big", "id":"19289128"},
     "city":"Greensboro",
     "state":"NC"}
          ]
